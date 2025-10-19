@@ -1,4 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#58a6ff;">Farhan Khan</span></h1>
+
 <h3 align="center">Full-Stack Developer • Design Enthusiast</h3>
 
 <p align="center">
@@ -10,11 +11,14 @@
 ---
 
 ### 🧠 About Me
-I’m currently pursuing a **B.Tech in Computer Science Engineering**.  
+
+I'm currently pursuing a **B.Tech in Computer Science Engineering**.  
+
 I love **building thoughtful digital experiences** where good design meets smart engineering.  
+
 My current focus is on **full-stack development**, **design systems**, and **applied AI** to craft creative, scalable, and meaningful products.
 
-> “Love reading too!”
+> "Love reading too!"
 
 ---
 
@@ -38,19 +42,17 @@ My current focus is on **full-stack development**, **design systems**, and **app
 
 ---
 
-
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fluffysce&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Farhan's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=fluffysce&theme=tokyonight&hide_border=true" alt="Farhan's GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fluffysce&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400&count_private=true" alt="Farhan's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=fluffysce&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Farhan's GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluffysce&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluffysce&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Top Languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fluffysce&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
-
 
 ---
 
@@ -65,7 +67,7 @@ My current focus is on **full-stack development**, **design systems**, and **app
 ---
 
 <p align="center">
-  <i>“Tinkering with design and web — one idea at a time.”</i>  
+  <i>"Tinkering with design and web — one idea at a time."</i>  
 </p>
 
 <p align="center">
