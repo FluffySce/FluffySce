@@ -14,10 +14,9 @@
 
 I'm currently pursuing a **B.Tech in Computer Science Engineering**.  
 
-I love **building thoughtful digital experiences** where good design meets smart engineering.  
+I love building, breaking and trying things that make coding fun for me! 
 
-My current focus is on **full-stack development**, **design systems**, and **applied AI** to craft creative, scalable, and meaningful products.
-
+My current focus is on **full-stack development**, **design systems**, and **applied AI**.
 > "Love reading too!"
 
 ---
@@ -34,11 +33,11 @@ My current focus is on **full-stack development**, **design systems**, and **app
 
 #### 🎯 Skill Match
 > AI-driven platform matching students to opportunities based on their skills and project interests.  
-> 🧩 Combined **NLP** and **ML models** with full-stack architecture.
+> Combined **NLP** and **ML models** with full-stack architecture.
 
 #### 🎧 SpoYT
 > Seamless **Spotify-YouTube playlist converter** with OAuth 2.0 authentication.  
-> 🔁 Flask backend, REST APIs, and cross-platform playlist synchronization.
+> Flask backend, REST APIs, and cross-platform playlist synchronization.
 
 ---
 
