@@ -1,74 +1,60 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#58a6ff;">Farhan Khan</span></h1>
-
-<h3 align="center">Full-Stack Developer • Design Enthusiast</h3>
+<h1 align="center">Farhan Khan</h1>
 
 <p align="center">
-  <a href="https://github.com/fluffysce">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Tinkering+with+design+and+web" alt="Typing SVG" />
-  </a>
+  Software Engineering Student
+  <br />
+  Curious about backend, infrastructure, developer tools, and thoughtful design.
 </p>
 
 ---
 
-### 🧠 About Me
+## About
 
-I'm currently pursuing a **B.Tech in Computer Science Engineering**.  
+I'm a Computer Science student who enjoys building products that are simple to use and interesting to engineer.
 
-I love building, breaking and trying things that make coding fun for me! 
+Lately I've been focused on backend engineering, infrastructure, developer tools, and open source. I enjoy exploring weird ideas, improving developer experiences, and understanding how systems work beneath the surface.
 
-My current focus is on **full-stack development**, **design systems**, and **applied AI**.
-> "Love reading too!"
+Outside programming, you'll usually find me reading philosophy, editing videos, or sketching product ideas.
 
 ---
 
-### 🛠️ Tech Toolbox
+## Tech I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,python,fastapi,firebase,aws,git,figma&perline=6" />
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,python,postgres,docker,linux,git,figma&perline=5" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+## Currently
 
-#### 🎯 Skill Match
-> AI-driven platform matching students to opportunities based on their skills and project interests.  
-> Combined **NLP** and **ML models** with full-stack architecture.
-
-#### 🎧 SpoYT
-> Seamless **Spotify-YouTube playlist converter** with OAuth 2.0 authentication.  
-> Flask backend, REST APIs, and cross-platform playlist synchronization.
+- Learning backend engineering and infrastructure
+- Building open-source tools and developer utilities
+- Exploring practical applications of AI
+- Looking for opportunities to build products with real users
 
 ---
 
-### 📊 GitHub Insights
+## Featured Projects
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fluffysce&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400&count_private=true" alt="Farhan's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=fluffysce&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Farhan's GitHub streak" />
-</p>
+### 🎵 SongJump
+A Spotify → YouTube Music playlist converter with OAuth authentication and playlist synchronization.
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluffysce&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fluffysce&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
+**Stack:** TypeScript • React • Python • Flask
 
 ---
 
-### 🌍 Connect with Me
+### 💳 Mini Wallet
 
-<p align="center">
-  <a href="https://linkedin.com/in/farhan-khan-668439300" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://twitter.com/kooky_v0" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
-  <a href="mailto:khanfarhan1510@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-</p>
+Built to understand authentication, transactions, API design, and backend architecture from the ground up.
+
+**Stack:** Go • PostgreSQL • Gin • React • Next.js
 
 ---
 
+## Connect
 <p align="center">
-  <i>"Tinkering with design and web — one idea at a time."</i>  
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fluffysce&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
+  <a href="https://www.linkedin.com/in/farhan-khan15/">LinkedIn</a> •
+  <a href="https://x.com/kooky_v0">X</a> •
+  <a href="mailto:khanfarhan1510@gmail.com">Email</a>
 </p>
