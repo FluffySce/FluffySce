@@ -10,11 +10,9 @@
 
 ## About
 
-I'm a Computer Science student who enjoys building products that are simple to use and interesting to engineer.
+CSE student enjoy building weird things that make me pull my hair and "under the hood" stuff. Been focused on backend engineering, trying infrastructure styled projects, developer tools to improve QoL, and open source.
 
-Lately I've been focused on backend engineering, infrastructure, developer tools, and open source. I enjoy exploring weird ideas, improving developer experiences, and understanding how systems work beneath the surface.
-
-Outside programming, you'll usually find me reading philosophy, editing videos, or sketching product ideas.
+Outside programming, you'll usually find me reading philosophy, editing videos, or sketching. (and making playlists).
 
 ---
 
